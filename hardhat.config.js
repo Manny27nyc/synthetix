@@ -67,6 +67,7 @@ module.exports = {
 		maxMethodDiff: 25, // CI will fail if gas usage is > than this %
 		outputFile: 'test-gas-used.log',
 	},
+
 	mocha: {
 		timeout: 60e3, // 60s
 	},
