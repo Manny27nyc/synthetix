@@ -136,7 +136,7 @@
 	"dependencies": {
 		"abi-decoder": "2.3.0",
 		"commander": "8.1.0",
-		"inquirer": "^6.5.2",
+		"inquirer": "^8.2.0",
 		"inquirer-list-search-prompt": "^1.0.2",
 		"js-levenshtein": "^1.1.6",
 		"pretty-error": "^2.1.1",
